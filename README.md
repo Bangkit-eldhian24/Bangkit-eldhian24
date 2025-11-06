@@ -17,7 +17,7 @@ Hello Big brother
 [![My Skills](https://skillicons.dev/icons?i=bash,python,go&perline=4)](https://skillicons.dev)
 
 # OPERATING SYSTEM
-[![OS](https://skillicons.dev/icons?i=arch,linux&perline=4)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=arch,linux,kali&perline=4)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bangkit-eldhian24&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
