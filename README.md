@@ -12,7 +12,7 @@
 ![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-**Somethimes Y/N 😊**
+**Sometimes Y/N 😊**
 
 # 💻 MY SKILS / 𝐌⃥⃒̸𝐘⃥⃒̸ 𝐒⃥⃒̸𝐊⃥⃒̸𝐈⃥⃒̸𝐋⃥⃒̸𝐋⃥⃒̸𝐒⃥⃒̸
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
