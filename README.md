@@ -12,9 +12,9 @@ Hello Big brother
 ![htb](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 
 # 💻 MY SKILS / 𝐌⃥⃒̸𝐘⃥⃒̸ 𝐒⃥⃒̸𝐊⃥⃒̸𝐈⃥⃒̸𝐋⃥⃒̸𝐋⃥⃒̸𝐒⃥⃒̸
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-[![My Skills](https://skillicons.dev/icons?i=bash,python,go&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,python&perline=4)](https://skillicons.dev)
 
 # OPERATING SYSTEM
 [![OS](https://skillicons.dev/icons?i=arch,linux,kali&perline=4)](https://skillicons.dev)
