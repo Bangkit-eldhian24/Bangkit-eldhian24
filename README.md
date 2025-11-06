@@ -10,6 +10,9 @@ Hello Big brother
 ![burpsuite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)
 ![htb](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
+![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
 
 # 💻 MY SKILS / 𝐌⃥⃒̸𝐘⃥⃒̸ 𝐒⃥⃒̸𝐊⃥⃒̸𝐈⃥⃒̸𝐋⃥⃒̸𝐋⃥⃒̸𝐒⃥⃒̸
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -17,7 +20,7 @@ Hello Big brother
 [![My Skills](https://skillicons.dev/icons?i=bash,python&perline=4)](https://skillicons.dev)
 
 # OPERATING SYSTEM
-[![OS](https://skillicons.dev/icons?i=arch,linux,kali&perline=4)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=arch,kali&perline=4)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bangkit-eldhian24&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
