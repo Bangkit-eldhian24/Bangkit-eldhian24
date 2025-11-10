@@ -4,6 +4,7 @@
 ![linux](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHo2N21mbmh3cGRzOXlmdG1xeTZxeGg5N3VzdnMwczRoZTA0Y2dscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8YJ8kfXIEwfQ5ejw7b/giphy.gif)
 
 ## ABOUT ME
+"pray, learn, eat, waifu"
 ```
 I'm a normal bugbounty person, and sometimes I'm also curious about my Linux (Arch) niche. I'm striving to be the best I can be better than before. 
 "pray, learn, eat, waifu❤️"
