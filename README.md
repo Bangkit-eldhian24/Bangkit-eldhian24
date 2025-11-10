@@ -3,6 +3,10 @@
 
 ![linux](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHo2N21mbmh3cGRzOXlmdG1xeTZxeGg5N3VzdnMwczRoZTA0Y2dscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8YJ8kfXIEwfQ5ejw7b/giphy.gif)
 
+## ABOUT ME
+I'm a regular bugbounty player, sometimes curious about Linux. I'm trying to be the best I can be. I also have a waifu.
+"No pain, no gain."
+
 ## 🌐 SOCIAL | Etc
 ![https://www.linkedin.com/in/bangkit-eldhianpranata-a707b8367/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://hackerone.com/4rdxcryz?type=user](https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white)
