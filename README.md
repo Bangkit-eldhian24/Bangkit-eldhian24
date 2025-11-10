@@ -11,6 +11,7 @@ I'm a normal bugbounty person, and sometimes I'm also curious about my Linux (Ar
 "A mistake that makes you humble, is better than an achievement that makes you arrogant. Mastery? Never comes. Just levels of acceptable suffering."
 
 ```
+### STATUS : N00B
 
 ## 🌐 SOCIAL | Etc
 ![https://www.linkedin.com/in/bangkit-eldhianpranata-a707b8367/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
