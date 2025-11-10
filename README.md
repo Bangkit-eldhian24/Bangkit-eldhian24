@@ -7,7 +7,9 @@
 "pray, learn, eat, waifu"
 ```
 I'm a normal bugbounty person, and sometimes I'm also curious about my Linux (Arch) niche. I'm striving to be the best I can be better than before. 
-"pray, learn, eat, waifu❤️"
+
+"A mistake that makes you humble, is better than an achievement that makes you arrogant. Mastery? Never comes. Just levels of acceptable suffering."
+
 ```
 
 ## 🌐 SOCIAL | Etc
