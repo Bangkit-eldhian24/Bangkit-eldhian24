@@ -5,6 +5,7 @@
 
 ## ABOUT ME
 "pray, learn, eat, waifu"
+asking 4 whoch one my best operating system linux?, i can say its kali(deb based) cuz deb is easy. im broke code step by step my arch and installing blackarch module..😓😓
 ```
 I'm a normal bugbounty person, and sometimes I'm also curious about my Linux (Arch) niche. I'm striving to be the best I can be better than before. 
 
