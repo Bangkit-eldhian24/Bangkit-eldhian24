@@ -23,7 +23,7 @@ I'm a normal bugbounty person, and sometimes I'm also curious about my Linux (Ar
 
 **Sometimes Y/N 😊**
 
-# 💻 MY SKILS / 𝐌⃥⃒̸𝐘⃥⃒̸ 𝐒⃥⃒̸𝐊⃥⃒̸𝐈⃥⃒̸𝐋⃥⃒̸𝐋⃥⃒̸𝐒⃥⃒̸
+# 💻 MY SKILS :)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 [![My Skills](https://skillicons.dev/icons?i=bash,python&perline=4)](https://skillicons.dev)
