@@ -30,7 +30,7 @@ I'm a normal bugbounty person, and sometimes I'm also curious about my Linux (Ar
 [![My Skills](https://skillicons.dev/icons?i=bash,python&perline=4)](https://skillicons.dev)
 
 # OPERATING SYSTEM
-[![OS](https://skillicons.dev/icons?i=arch,kali,cachyos&perline=4)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=arch,kali,cachy&perline=4)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bangkit-eldhian24&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
