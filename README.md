@@ -1,7 +1,8 @@
 # ❓ Ẅ̸̴̸̵̷̷̴̵̷̴̸̶̶̸̶̸̭́́̀̃̀̍͆̈̄́͠͝Ḩ̴̸̶̸̴̷̴̵̴̸̶̶̸̴̴̴̷̷̴̶̸̵̴̸̵̸̵̸̵̯̘̞̰̖̯̠̩̳͊͗͒̀̒̐͗̐́̋̍̔͌͊͘͝Õ̸̴̶̵̸̸̶̴̶̵̷̶̵̴̵̸̸̴̴̷̷̷̷̷̵̶̵̢̨̧̤̞͓̘͍̠̤̥̺͖̲̳̮̟̾͋͑̅̓͑A̷̴̷̶̵̸̶̷̵̶̴̸̶̵̷̷̶̴̷̴̵̸̷̵̴̷̮̥͉͙͉̼͚̹̟̠̱̭̥͔̩̗͋̂̃̓͆̎̕M̷̶̵̷̸̸̵̶̴̴̷̷̶̵̴̶̸̷̡̰̭̰̭͇̝͙͎͙̥͛̏̒̇Ī̴̷̶̵̵̸̵̵̴̵̴̸̷̶̸̶̸̸̛̖̉̐̑̓͌̌̎̌͒͋̋̕ ❓
 
 
-![linux](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHo2N21mbmh3cGRzOXlmdG1xeTZxeGg5N3VzdnMwczRoZTA0Y2dscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8YJ8kfXIEwfQ5ejw7b/giphy.gif)
+![linux](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl1aDN4MmwwaHpxdGR4dnVtNHBzbW80ODBvcG5zcXRmN3ZiaWtleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xtejbDpwlMYEmQpx1F/giphy.gif)
+
 
 ## ABOUT ME
 "pray, learn, eat, waifu"
