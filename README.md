@@ -24,6 +24,7 @@ I'm a normal bugbounty person, and sometimes I'm also curious about my Linux (Ar
 ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 
+![Funny](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm13dWp5dDdqN3Y2dzAwM2tkcHR4Ynh5MTE5emRhMWZ1N2s2ZXJqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs81rDuEz9ioJzAA/giphy.gif)
 
 # 💻 MY SKILS :)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
