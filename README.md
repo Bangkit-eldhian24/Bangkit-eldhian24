@@ -22,6 +22,7 @@ I'm a normal bugbounty person, and sometimes I'm also curious about my Linux (Ar
 ![htb](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 ![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 
 ![Funny](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm13dWp5dDdqN3Y2dzAwM2tkcHR4Ynh5MTE5emRhMWZ1N2s2ZXJqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs81rDuEz9ioJzAA/giphy.gif)
