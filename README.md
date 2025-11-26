@@ -7,7 +7,7 @@
 ## ABOUT ME
 "pray, learn, eat, waifu"
 ```
-I'm a normal bugbounty person, and sometimes I'm also curious about my Linux (Arch) niche. I'm striving to be the best I can be better than before. 
+hello i'am an bughunting enthusiast, and sometimes I'm also curious about my Linux (Arch) niche. I'm striving to be the best I can be better than before. 
 
 "A mistake that makes someone be humble, is better than an achievement that makes sommeone be arrogant. and Mastery thats skills? Never comes. Just levels of acceptable suffering."
 
