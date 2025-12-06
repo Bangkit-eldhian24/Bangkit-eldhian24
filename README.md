@@ -6,6 +6,7 @@
 
 ## ABOUT ME
 "pray, learn, eat, waifu"
+do great than before
 ```
 hello i'am an bughunting enthusiast, and sometimes I'm also curious about my Linux (Arch) niche. I'm striving to be the best I can be better than before. 
 
