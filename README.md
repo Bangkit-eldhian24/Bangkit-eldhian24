@@ -14,8 +14,11 @@ hello i'am an bughunting enthusiast, and sometimes I'm also curious about my Lin
 
 ```
 
-### STATUS : Nx0B
 
+
+<details>
+  <summary> STATUS : Nx0BO </summary>
+  
 ## 🌐 SOCIAL | Etc
 ![https://www.linkedin.com/in/bangkit-eldhianpranata-a707b8367/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://hackerone.com/4rdxcryz?type=user](https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white)
@@ -34,6 +37,8 @@ hello i'am an bughunting enthusiast, and sometimes I'm also curious about my Lin
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 [![My Skills](https://skillicons.dev/icons?i=bash,python&perline=4)](https://skillicons.dev)
+
+</details>
 
 # OPERATING SYSTEM
 [![OS](https://skillicons.dev/icons?i=arch,kali,cachy&perline=4)](https://skillicons.dev)
