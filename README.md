@@ -13,7 +13,10 @@ hello i'am an bughunting enthusiast, and sometimes I'm also curious about my Lin
 "A mistake that makes someone be humble, is better than an achievement that makes sommeone be arrogant. and Mastery thats skills? Never comes. Just levels of acceptable suffering."
 
 ```
-
+name tag
+```
+S̵̬̠̗̹̺̻̰̋̄̾̉͊̏̽̒̆̈́̆͒̎̾́͝C̸͍̟̠͈̟̈̔̆͆̓̆̉̾͋͊̐̓̅̽̕̕Y̴̱͔̻̘͚͙͚̼̩͔̰͕͖͉̖̩̆L̸̥̖̏Á̷̧̘͎̀Ǟ̶̙̓̇̒̈́̎̑͐̃̾̌̅̑̚̚͝ ̸̥̣̳̖̺̲͇͚͔̜͙̖͒̑̑̔̈̓̾͌̀̏̔̀̍̚4̵̢̢̫̤̣̪̠̘̙̺͈̖̹̰̼̹̊̆͐̀̉͑͆̉͛̉̐͛̐͝͝͝ͅr̴̢͎̰̹̐͊̽̉͋͐͂́͛d̴͕͊͆̊̓ẍ̷̨̢̧̭̳͎̪͓̙̤̪̭͈̳͚̙́̋̿͆̋̈́͒̄̏̆̔̾̽̓͘ͅ , Noshiro , Bangkit-eldhian , ardxcryz
+```
 
 
 <details>
