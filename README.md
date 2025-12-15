@@ -17,6 +17,8 @@ name tag
 ```
 S̵̬̠̗̹̺̻̰̋̄̾̉͊̏̽̒̆̈́̆͒̎̾́͝C̸͍̟̠͈̟̈̔̆͆̓̆̉̾͋͊̐̓̅̽̕̕Y̴̱͔̻̘͚͙͚̼̩͔̰͕͖͉̖̩̆L̸̥̖̏Á̷̧̘͎̀Ǟ̶̙̓̇̒̈́̎̑͐̃̾̌̅̑̚̚͝ ̸̥̣̳̖̺̲͇͚͔̜͙̖͒̑̑̔̈̓̾͌̀̏̔̀̍̚4̵̢̢̫̤̣̪̠̘̙̺͈̖̹̰̼̹̊̆͐̀̉͑͆̉͛̉̐͛̐͝͝͝ͅr̴̢͎̰̹̐͊̽̉͋͐͂́͛d̴͕͊͆̊̓ẍ̷̨̢̧̭̳͎̪͓̙̤̪̭͈̳͚̙́̋̿͆̋̈́͒̄̏̆̔̾̽̓͘ͅ , Noshiro , Bangkit-eldhian , ardxcryz
 ```
+## DISCLAMER FOR PFP ( Photo profil pict )
+artists => https://www.pixiv.net/en/artworks/138257850
 
 
 <details>
