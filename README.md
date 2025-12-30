@@ -22,7 +22,7 @@ artists => https://www.pixiv.net/en/artworks/138257850
 
 
 <details>
-  <summary> STATUS : Nx0BO </summary>
+  <summary> STATUS : Nx0b / L </summary>
   
 ## 🌐 SOCIAL | Etc
 ![https://www.linkedin.com/in/bangkit-eldhianpranata-a707b8367/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
